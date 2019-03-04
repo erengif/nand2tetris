@@ -1,2 +1,2 @@
 # nand2tetris
-Projectos 07 and 09
+Projects 08 and 10
